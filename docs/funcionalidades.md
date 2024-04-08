@@ -72,7 +72,7 @@ Se deberá tener en cuenta lo siguiente:
 
 - Deberá estar en la ruta `/dentist/:id`.
 - La página deberá indicar al menos la siguiente información:
-  - Nombre del personaje
+  - Nombre del dentista
   - Email
   - Telefono
   - Sitio web
